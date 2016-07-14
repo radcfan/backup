@@ -1,1 +1,2 @@
 .bpbackup -f /tmp/testfile.txt -L /tmp/testlog
+.bp
